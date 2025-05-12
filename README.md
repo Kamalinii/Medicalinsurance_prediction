@@ -9,6 +9,7 @@ A key challenge for the insurance industry is to charge each customer an appropr
 
 Data Definition
 Feature	Description
+
 age	     -     Age of the policyholder (Numeric)
 sex	     -     Gender of policyholder (Categoric)
 weight	 -     Weight of the policyholder (Numeric)
